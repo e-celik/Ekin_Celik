@@ -61,9 +61,35 @@ Clay-Pigeon Shooting at a Range
 Surfing Trip with [Outback Adventures](https://recreation.ucsd.edu/adventures/wilderness-orientation/)  
 ![surfing](attachments/PST00299_Original.jpg)
 
+## _More Stuff_
 
+### A quote that I like a lot
+From Georges Bizet (composer of _Carmen_):
+> As a musician I tell you that if you were to suppress adultery, fanaticism, crime, evil, the supernatural, there would no longer be the means for writing one note.
 
+I like this quote because I agree that there has to be some kind of societal friction in order to make the world an interesting place to live in.  
 
+### A program that I like a lot
+An algorithm from the 1999 game: Quake III Arena:
+```
+float Q_rsqrt(float number)
+{
+  long i;
+  float x2, y;
+  const float threehalfs = 1.5F;
+
+  x2 = number * 0.5F;
+  y  = number;
+  i  = * ( long * ) &y;                       // evil floating point bit level hacking
+  i  = 0x5f3759df - ( i >> 1 );               // what the fuck?
+  y  = * ( float * ) &i;
+  y  = y * ( threehalfs - ( x2 * y * y ) );   // 1st iteration
+  // y  = y * ( threehalfs - ( x2 * y * y ) );   // 2nd iteration, this can be removed
+
+  return y;
+}
+```
+The above is a program called the _fast inverse square root_, and it was designed to copmute lighting for the graphics of first-person-shooter Quake III Arena. Although the algorithm is now obselete, due to hardware advancements, I still really enjoy it because it is apparent that the programmer is knowledgable about mathematical approximations, floating point representations, and has a great sense of humor.
 
 
 
