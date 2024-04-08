@@ -34,7 +34,8 @@ Some of my Hobbies/Talents Include:
 
   ## _Gallery_
 
-  
+Spooky Pictures Around Campus:
+![Path](/Images/IMG_0962)
 
 
 
