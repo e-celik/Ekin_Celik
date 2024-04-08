@@ -32,7 +32,7 @@ Some of my Hobbies/Talents Include:
 - Playing Lacrosse[^5]
 - Taking pictures of [Spooky Places](https://github.com/e-celik/110PagesProject/edit/main/index.md#spooky-pictures-from-around-campus)
 
-  ## _Gallery_
+## _Gallery_
 
 ### Spooky Pictures From Around Campus:
 
