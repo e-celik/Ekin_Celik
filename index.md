@@ -1,5 +1,5 @@
 # _Ekin Celik_
-## _Computer Science, UCSD_
+Computer Science, _University of California, San Diego_  
 Expected Graduation: Spring 2025
 
 ## _Academic Bio_
@@ -10,4 +10,32 @@ Some classes that I look forward to are:
 -  [Components and Design Techniques for Digital Systems](https://catalog.ucsd.edu/courses/CSE.html#cse140)
 -  [Introduction to Modern Cryptography](https://catalog.ucsd.edu/courses/CSE.html#cse107)
 
-My future goals include obtaining a Graduate Level Degree in Computer Science, desireably here at UCSD. I find that I particularly enjoy theory courses, so I expect that I would specialize in that area, with nothing specific in mind yet. I expect to make a well informed decision after I have taken a wide variety of courses.
+My future goals include obtaining a Graduate Level Degree in Computer Science, desireably here at UCSD. I find that I particularly enjoy theory courses, so I expect that I would specialize in that area, with nothing specific in mind yet. I expect to make a well informed decision after I have taken a wider variety of courses.
+
+Academic Goals:
+- [x] Attend Prestiguous University[^1]
+- [ ] Graduate from said University
+  - [x] Maintain High GPA
+- [ ] Obtain Masters Degree
+- [ ] Obtain Phd[^2]
+
+## _Personal Bio_
+I try to push myself to delve deeper into my hobbies, and pick up new ones, as well. I do this because I believe that having talents and interests can greatly improve a person. Having talents that serve no purpose other than to impress others (e.g. juggling)[^3] , can still boost confidence. 
+
+Some of my Hobbies/Talents Include:
+- Snowboarding
+- Playing the Keyboard
+- Playing the guitar
+- Playing the ukelele
+- Writing and recording music[^4]
+- Playing Lacrosse[^5]
+- Taking pictures of Spooky Places
+
+
+
+
+[^1]: (Prestiguous enough)
+[^2]: It's too early to make this decision.
+[^3]: I cannot juggle.
+[^4]: Started recently, still learning
+[^5]: Played LSM in High School and College
