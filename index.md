@@ -30,12 +30,39 @@ Some of my Hobbies/Talents Include:
 - Playing the ukelele
 - Writing and recording music[^4]
 - Playing Lacrosse[^5]
-- Taking pictures of Spooky Places
+- Taking pictures of [Spooky Places](https://github.com/e-celik/110PagesProject/edit/main/index.md#gallery)
 
   ## _Gallery_
 
-Spooky Pictures Around Campus:
-![Path](/Images/IMG_0962)
+### Spooky Pictures From Around Campus:
+
+![Path](Images/IMG_0962.jpg)
+
+![RoadLights](Images/IMG_0968.JPG)
+
+![SatanLives](Images/IMG_0941.JPG)
+
+### Assorted Pictures:
+
+Davenport, CA  
+![Davenport](attachments/66640819213__98A65F64-E58E-4CF6-B66D-245BE0BC34DE.jpg)  
+New Years!  
+![NewYears23](attachments/IMG_0187.JPG)  
+Me and Grandpa  
+![dede](attachments/IMG_0789.JPG)  
+Two of my Buddies and a Million Stars  
+![skyline](attachments/IMG_0909.JPG)  
+Me and my Buddy with Similar Jackets[^6]  
+<img src="attachments/IMG_1198.JPG" alt="VOIDZ" width="400"/>  
+Lake Tahoe from Heavenly Resort  
+![Heavenly](attachments/IMG_2665.jpg)  
+Clay-Pigeon Shooting at a Range  
+![pigeons](attachments/IMG_3383.jpg)  
+Surfing Trip with [Outback Adventures](https://recreation.ucsd.edu/adventures/wilderness-orientation/)  
+![surfing](attachments/PST00299_Original.jpg)
+
+
+
 
 
 
@@ -45,3 +72,4 @@ Spooky Pictures Around Campus:
 [^3]: I cannot juggle.
 [^4]: Started recently, still learning
 [^5]: Played LSM in High School and College
+[^6]: "Jackets are the eyes to the soul" -Julian Casablancas of The Voidz
