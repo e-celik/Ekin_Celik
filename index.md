@@ -92,7 +92,7 @@ float Q_rsqrt(float number)
 The above is a program called the _fast inverse square root_, and it was designed to compute lighting for the graphics of first-person-shooter Quake III Arena. Although the algorithm is now obsolete, due to hardware advancements, I still really enjoy it because it is apparent that the programmer is knowledgable about mathematical approximations, floating point representations, and has a great sense of humor.
 
 
-
+### Notes:
 [^1]: (Prestiguous enough)
 [^2]: It's too early to make this decision.
 [^3]: I cannot juggle.
