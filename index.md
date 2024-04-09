@@ -30,7 +30,7 @@ Some of my Hobbies/Talents Include:
 - Playing the ukelele
 - Writing and recording music[^4]
 - Playing Lacrosse[^5]
-- Taking pictures of [Spooky Places](https://github.com/e-celik/110PagesProject/edit/main/index.md#spooky-pictures-from-around-campus)
+- Taking pictures of [Spooky Places](https://e-celik.github.io/110PagesProject/#spooky-pictures-from-around-campus)
 
 ## _Gallery_
 
