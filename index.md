@@ -1,6 +1,6 @@
 # _Ekin Celik_
 Computer Science, _University of California, San Diego_  
-Expected Graduation: Spring 2025
+Expected Graduation: Spring 2026
 [Academic History](/ENCacademicHistory.pdf)
 
 ## _Academic Bio_
